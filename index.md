@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                text-align: center;
+                background-color: #ffe2fd;
+                color: #262626;
+                font-family: Arial;
+            }
+            h1 {
+                font-size: 50px;
+            }
+            p {
+                font-size: 20px;
+            }
+            .responsive-img {
+              max-width: 100%;
+              display: block;
+              height: auto;
+            }
+            #img-caption {
+                font-size: 18px;
+            }
+        </style>
+        <title>Tribute Page</title>
+    </head>
+    <body>
+        <div id="main">
+            <h1 id="title">Ichigo Momomiya</h1>
+            <p> AKA: Mew Ichigo </p>
+
+            <div id="img-div"> 
+                <img id="image" class="responsive-image" src="https://vignette.wikia.nocookie.net/tokyomewmewfanon/images/2/2a/Ichigotftyftyjdyt.png/revision/latest?cb=20190809093458" alt="Mew Ichigo striking a pose.">
+                <p id="img-caption"> Mew Ichigo is the main protagonist of the Tokyo Mew Mew manga and anime series </p>
+            </div>
+
+            <div id="tribute-info">
+                <p>
+                    Ichigo Momomiya is the main protagonist of Tokyo Mew Mew and the first of the main Mews to be introduced. She has the genes of the Iriomote Wildcat and her Mew form is Mew Ichigo. 
+                    Ichigo is 12-13 years old in Tokyo Mew Mew (though one manga mistranslated her age as 11), with her age being raised to 16 in Mew Mew Power, and she attends Daikan Junior High School. In her spare time, she works at Café Mew Mew with the rest of the girls. She has a huge crush on Masaya Aoyama, who later on becomes her boyfriend.
+                    Ichigo is a very bright, happy, and hyper young girl who enjoys spending time with her friends. She has a bold nature and is very brave, except towards ghosts. Ichigo is hardworking, friendly, and a good leader. She can be very excitable, and sometimes overreacts when excited or angry. She is emotional, sometimes allowing her emotions to get the best of her. On occasion, Ichigo will succumb to her animal instincts and act very cat-like. 
+                </p>
+                <a id="tribute-link" href="https://tokyomewmewfanon.fandom.com/wiki/Ichigo_Momomiya" target="_blank">Click here for more information.</a>.
+            </div>
+            
+        </div>
+                    
+    </body>
+</html>
